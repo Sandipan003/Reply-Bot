@@ -1,0 +1,15 @@
+{
+  "name": "my-bot-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "replyBot.js",
+  "scripts": {
+    "start": "node replyBot"
+  },
+  "keywords": [],
+  "author": "Sandipan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
